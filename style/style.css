@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(52, 134, 241);
+    color: white;
+    text-align: center;
+    margin: 0;
+    font-family: 'Baloo 2', cursive;
+}
+
+*,*:before, *:after {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
