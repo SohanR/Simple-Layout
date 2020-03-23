@@ -1,5 +1,6 @@
 @import "div container.css";
 @import "nav.css";
+@import "section.css";
 body{
     background-color: rgb(52, 134, 241);
     color: white;
@@ -19,12 +20,13 @@ nav,
 section,
 footer{
     border: 2px solid white;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
     border-radius: 5px;
 }
 
 header,footer{
     padding: 20px;
+    width: 960px;
 }
 
 nav, section{
