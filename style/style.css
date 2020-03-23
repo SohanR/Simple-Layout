@@ -1,4 +1,5 @@
 @import "div container.css";
+@import "nav.css";
 body{
     background-color: rgb(52, 134, 241);
     color: white;
@@ -28,4 +29,8 @@ header,footer{
 
 nav, section{
     padding: 200px;
+}
+
+nav, section, footer{
+    float: left;
 }
